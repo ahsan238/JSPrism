@@ -1,0 +1,7 @@
+__pycache__
+node_modules
+additional
+package-lock.json
+idldata.json
+postanalysis.py
+tests

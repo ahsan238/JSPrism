@@ -1,0 +1,42 @@
+Missing iflow for google analytics:
+
+API: 45526,PluginArray.length
+Current Iflow: []
+Expected iflow: [45507,PluginArray.length, 45490,Navigator.plugins]
+
+
+`"desktop": {
+            "45526,PluginArray.length": {
+                "conditional_node_attributes": {
+                    "start": 45522,
+                    "end": 45536,
+                    "range": [
+                        45522,
+                        45536
+                    ],
+                    "operator": "&&"
+                },
+                "neighboring_apis": [
+                    "45227,HTMLBodyElement.clientWidth",
+                    "45242,HTMLBodyElement.clientHeight",
+                    "45266,HTMLHtmlElement.clientWidth",
+                    "45281,HTMLHtmlElement.clientHeight",
+                    "45313,HTMLDocument.compatMode",
+                    "45335,HTMLHtmlElement.clientWidth",
+                    "45349,HTMLHtmlElement.clientHeight",
+                    "45477,Window.navigator",
+                    "45490,Navigator.plugins",
+                    "45507,PluginArray.length",
+                    "45526,PluginArray.length",
+                    "45555,Plugin.name",
+                    "45526,PluginArray.length",
+                    "45555,Plugin.name",
+                    "45526,PluginArray.length",
+                    "45555,Plugin.name",
+                    "45526,PluginArray.length",
+                    "45555,Plugin.name",
+                    "45526,PluginArray.length",
+                    "45555,Plugin.name"
+                ],
+                "iflow": []
+            }`

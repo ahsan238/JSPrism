@@ -1,0 +1,14 @@
+{
+    "https://d9.flashtalking.com/d9core": {
+        "path": "/home/azafar2/VV8_PDG_mapping/additional/new_agg_data/godaddy.com/script_agg.json",
+        "sub": "godaddy.com"
+    },
+    "https://connect.facebook.net/signals/config/366647620149022?v=2.9.129&r=stable&domain=www.weebly.com": {
+        "path": "/home/azafar2/VV8_PDG_mapping/additional/new_agg_data/adobe.com/script_agg.json",
+        "sub": "weebly.com"
+    },
+    "https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js": {
+        "path": "/home/azafar2/VV8_PDG_mapping/additional/new_agg_data/adobe.com/script_agg.json",
+        "sub": "alidns.com"
+    }
+}
